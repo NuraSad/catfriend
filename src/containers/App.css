@@ -1,0 +1,13 @@
+@font-face {
+font-family: 'Animal Insting Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Animal Insting Regular'), url('Animal Insting.woff') format('woff');
+}
+
+h1 {
+    font-family: "Animal Insting Regular";
+    font-size: 3rem;
+    font-weight: 200;
+    color: #F2DC5D;
+}
